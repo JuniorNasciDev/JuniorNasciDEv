@@ -5,7 +5,7 @@
 🎓 Cursos na Udemy, Estou cursando analise e desenvolvimento de sistemas na UMC (mogi das cruzes).  
 
 📫 Como me encontrar:  
-- LinkedIn: [[seulink](https://www.linkedin.com)  ](https://www.linkedin.com/in/welitonnasci/)
+- LinkedIn: (https://www.linkedin.com/in/welitonnasci/)
 - Email: juniornascidev@gmail.com
 
 ⚡ Portfólio em construção! 
