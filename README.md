@@ -9,15 +9,9 @@
 
 📫 Como me encontrar:  
 - LinkedIn: (https://www.linkedin.com/in/welitonnasci/)
-- Email: juniornascidev@gmail.com
-
-⚡ Portfólio em construção
-
-
-
-
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welitonnasci?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
+- Email: juniornascidev@gmail.com
 
-[![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=email&logoColor=white)](https://juniornascidev@gmail.com)
+⚡ Portfólio em construção
